@@ -23,13 +23,11 @@ I focus on **e-commerce apps**, **AI-powered tools**, and **modern UI/UX**.
 ---
 
 ## 📬 Contact
-📧 Email: avinashpasham18@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/avinashyadavpasham/ 
-    🌐 Portfolio: https://my-portfolio-peach-xi-14.vercel.app/ 
-
+📧 Email: **avinashpasham18@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/avinashyadavpasham/**  
+🌐 Portfolio: **https://my-portfolio-peach-xi-14.vercel.app/**  
 
 ---
 
 ### ⭐ Thanks for visiting!  
 If you like my work, feel free to **star** my repositories!
-
