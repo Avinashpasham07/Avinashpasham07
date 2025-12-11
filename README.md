@@ -1,67 +1,35 @@
-# 🌟 Hi there, I'm **Avinash Pasham** 👋
-### Full-Stack MERN Developer | UI/UX Enthusiast | Problem Solver
+# 👋 Hi, I'm Avinash Pasham
+### 🚀 MERN Stack Developer | 🎨 UI/UX Enthusiast | ⚡ Problem Solver
+
+I build clean, fast, and user-friendly web applications using the **MERN stack**.  
+I focus on **e-commerce apps**, **AI-powered tools**, and **modern UI/UX**.
 
 ---
 
-# 🧑‍💻 About Me
-I am a passionate **MERN Stack Developer** who loves creating scalable and visually appealing web applications.
-
-- Modern full-stack applications  
-- E-commerce platforms  
-- Enhanced user experiences  
-- Clean & responsive interfaces  
-- AI-integrated applications  
-- Problem-solving with efficient code  
+## ⚙️ Skills
+- **Frontend:** React.js, JavaScript, HTML, CSS, Tailwind  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, Postman, VS Code  
 
 ---
 
-# ⚙️ Tech Stack
-
-## **Frontend**
-- React.js  
-- JavaScript (ES6+)  
-- HTML5, CSS3  
-- Tailwind CSS, Bootstrap  
-- Framer Motion  
-
-## **Backend**
-- Node.js  
-- Express.js  
-- REST APIs  
-- JWT Authentication  
-
-## **Database**
-- MongoDB  
-- Mongoose  
-
-## **Tools**
-- Git & GitHub  
-- Postman  
-- VS Code  
-- Cloudinary  
-- Render / Vercel  
+## ⭐ Featured Work
+- **EduTutor AI** – AI-powered learning system  
+- **WealthMap Explorer** – Map-based data visualization  
+- **Price Comparison Engine** – Multi-platform product search  
+- **AI Resume Generator** – Smart resume creation  
 
 ---
 
-# 💼 What I Build
-- Full-stack MERN applications  
-- E-commerce platforms  
-- AI-enabled apps  
-- Authentication systems  
-- Portfolio websites  
-- REST APIs  
-- Student productivity tools  
-
----
-
-
-# 🤝 Connect With Me
+## 📬 Contact
 📧 Email: avinashpasham18@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/avinashyadavpasham/
-🌐 Portfolio: https://my-portfolio-peach-xi-14.vercel.app/
+🌐 Portfolio: https://my-portfolio-peach-xi-14.vercel.app/ 
+
 
 ---
 
-# 🙌 Thanks for Visiting!
-⭐ Feel free to star any repository you like!
+### ⭐ Thanks for visiting!  
+If you like my work, feel free to **star** my repositories!
 
