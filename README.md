@@ -1,17 +1,17 @@
 # 🌟 Hi there, I'm **Avinash Pasham** 👋
-### 🚀 Full-Stack MERN Developer | UI/UX Enthusiast | Problem Solver
+### Full-Stack MERN Developer | UI/UX Enthusiast | Problem Solver
 
 ---
 
 # 🧑‍💻 About Me
 I am a passionate **MERN Stack Developer** who loves creating scalable and visually appealing web applications.
 
-- 🔥 Modern full-stack applications  
-- 🛒 E-commerce platforms  
-- ⚡ Enhanced user experiences  
-- 🎨 Clean & responsive interfaces  
-- 🤖 AI-integrated applications  
-- 🧠 Problem-solving with efficient code  
+- Modern full-stack applications  
+- E-commerce platforms  
+- Enhanced user experiences  
+- Clean & responsive interfaces  
+- AI-integrated applications  
+- Problem-solving with efficient code  
 
 ---
 
@@ -54,41 +54,11 @@ I am a passionate **MERN Stack Developer** who loves creating scalable and visua
 
 ---
 
-# 🌱 Currently Learning
-- Next.js  
-- System Design  
-- Advanced UI/UX  
-- AI Model Integration  
-
----
-
-# ⭐ Featured Projects
-
-### 🔹 EduTutor AI – Personalized Learning System
-AI-powered platform generating lessons, quizzes & flashcards.
-
-### 🔹 WealthMap Explorer
-Map-based visualization tool for property ownership.
-
-### 🔹 E-Commerce Price Comparison Engine
-Search products & compare prices across platforms.
-
-### 🔹 Smart Resume Generator (AI)
-Creates customized, job-ready resumes.
-
----
-
-# 📊 GitHub Stats
-
-![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinashpasham07&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashpasham07&layout=compact&theme=tokyonight)
-
----
 
 # 🤝 Connect With Me
-📧 Email: yourmail@example.com  
-🔗 LinkedIn: Add your link  
-🌐 Portfolio: Add your site  
+📧 Email: avinashpasham18@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/avinashyadavpasham/
+🌐 Portfolio: [Add your site  ](https://my-portfolio-peach-xi-14.vercel.app/)
 
 ---
 
