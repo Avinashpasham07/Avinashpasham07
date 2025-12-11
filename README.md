@@ -58,7 +58,7 @@ I am a passionate **MERN Stack Developer** who loves creating scalable and visua
 # 🤝 Connect With Me
 📧 Email: avinashpasham18@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/avinashyadavpasham/
-🌐 Portfolio: [Add your site  ](https://my-portfolio-peach-xi-14.vercel.app/)
+🌐 Portfolio: https://my-portfolio-peach-xi-14.vercel.app/
 
 ---
 
