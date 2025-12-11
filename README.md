@@ -1,9 +1,9 @@
-🌟 Hi there, I'm Avinash Pasham! 👋
+✨ Hi there, I'm Avinash Pasham! 👋
 🚀 Full-Stack MERN Developer | UI/UX Enthusiast | Problem Solver
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinashpasham07&theme=tokyonight" alt="GitHub Streak Stats" /> </p>
 🧑‍💻 About Me
 
-I’m a passionate MERN Stack Developer who loves building real-world, scalable, and visually appealing web applications.
-I enjoy turning ideas into functional products with clean UI, smooth UX, and optimized backend logic.
+I am a passionate MERN Stack Developer who loves building real-world, scalable, and visually appealing web applications.
 
 I focus on:
 
@@ -11,22 +11,22 @@ I focus on:
 
 🛒 Building e-commerce platforms
 
-⚡ Improving user experiences
+⚡ Enhancing user experiences
 
 🎨 Crafting clean & responsive interfaces
 
+🤖 Exploring AI-integrated apps
+
 🧠 Solving problems with efficient code
-
-🤖 Exploring AI-integrated projects
-
-I'm constantly learning, improving, and experimenting with new technologies to level up my development journey.
 
 ⚙️ Tech Stack
 Frontend
 
 React.js
 
-HTML5, CSS3, JavaScript
+JavaScript (ES6+)
+
+HTML5, CSS3
 
 Tailwind CSS, Bootstrap
 
@@ -48,7 +48,7 @@ MongoDB
 
 Mongoose
 
-Tools & Others
+Tools
 
 Git & GitHub
 
@@ -62,62 +62,56 @@ Render / Vercel
 
 💼 What I Build
 
-Full-fledged MERN applications
+Full-stack MERN apps
 
-E-Commerce websites (Amazon-like UI/UX)
+E-commerce platforms
 
-AI-integrated apps
-
-Student productivity tools
-
-Portfolio & landing pages
+AI-enabled applications
 
 Authentication systems
 
-API services
+Student productivity tools
+
+Portfolio websites
+
+REST APIs
 
 🌱 Currently Learning
 
 Next.js
 
-Advanced system design
+System Design
 
-Cloud deployments
+Advanced UI/UX
 
-AI integration (OpenRouter / LLMs)
+AI Model Integration
 
-📌 Featured Projects
-🔸 EduTutor AI – Personalized Learning System
+⭐ Featured Projects
+🔹 EduTutor AI – Personalized Learning System
 
-An AI-powered learning platform with lesson generation, quizzes, flashcards, and study assistance.
+AI-powered platform generating lessons, quizzes, flashcards & more.
 
-🔸 WealthMap Explorer
+🔹 WealthMap Explorer
 
-A MapBox-powered web app visualizing U.S. property ownership and wealth distribution.
+MapBox-based visualization tool for U.S. property ownership.
 
-🔸 E-Commerce Price Comparison Engine
+🔹 E-Commerce Price Comparison Engine
 
-Search products like “bag under 5000” and compare prices from multiple platforms.
+Search products & compare prices across multiple platforms.
 
-🔸 Smart Resume Generator (AI)
+🔹 Smart Resume Generator (AI)
 
-Generates job-ready resumes tailored for any opportunity.
+Generates job-ready resumes tailored to any job role.
 
-📊 GitHub Stats
-
-(These will update automatically once you add them to your README)
-
-![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinashpasham07&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashpasham07&layout=compact&theme=tokyonight)
-
+📊 GitHub Insights
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Avinashpasham07&show_icons=true&theme=tokyonight" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashpasham07&layout=compact&theme=tokyonight" height="180" /> </p>
 🤝 Let’s Connect
 
-📧 Email: youremail@example.com
+📧 Email: yourmail@example.com
 
-💼 LinkedIn: (Add your link here)
+💼 LinkedIn: (Add your link)
+🌐 Portfolio: (Add website link)
 
-🌐 Portfolio: (Add your website link once ready)
+🙌 Thanks for Visiting My Profile!
 
-🙌 Thanks for Visiting!
-
-Feel free to explore my repositories, star projects you like ⭐, or reach out for collaboration!
+⭐ Feel free to star any repository you find useful!
